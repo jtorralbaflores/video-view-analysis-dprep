@@ -1,7 +1,7 @@
-# Project title
+# Tutorial 2
 
 ## Goal
-Short project objective.
+Changing the README.
 
 ## Data
 - Main file: video_view.csv
