@@ -16,4 +16,4 @@ Tutorial week 2 maken
 2. `quarto render src/report.qmd`
 
 ## Expected output
-- Het begrijpen van deze week en alle eisen die daaraan verbonden zitten. Ik ben jier 
+- Ik moet weer wat veranderen
