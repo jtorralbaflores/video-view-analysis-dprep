@@ -1,6 +1,7 @@
 # Tutorial 2
 
-## Goal the README.
+## Goal
+- Practicing with changing the README and pushing to GitHub.
 
 ## Data
 - Main file: video_view.csv
