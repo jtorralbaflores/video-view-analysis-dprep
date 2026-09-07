@@ -1,7 +1,7 @@
-# Project title
+# Tutorial week 2
 
 ## Goal
-Short project objective.
+Tutorial week 2 maken
 
 ## Data
 - Main file: video_view.csv
@@ -16,6 +16,4 @@ Short project objective.
 2. `quarto render src/report.qmd`
 
 ## Expected output
-- report.html
-
-- Doing some testing here! 
+- Het begrijpen van deze week en alle eisen die daaraan verbonden zitten. Ik ben jier 
