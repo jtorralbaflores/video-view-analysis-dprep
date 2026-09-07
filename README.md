@@ -1,7 +1,6 @@
 # Tutorial 2
 
-## Goal
-Changing the README.
+## Goal the README.
 
 ## Data
 - Main file: video_view.csv
